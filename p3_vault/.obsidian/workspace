@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3111de9b20ea797e",
+        "id": "519c8b3275bfe4fb",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -124,8 +124,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3111de9b20ea797e",
+  "active": "519c8b3275bfe4fb",
   "lastOpenFiles": [
+    "PEOPLE/Amy Goldman.md",
+    "Test/Test.md",
     "PLATFORMS/Org_platforms/Org_platforms.md",
     "PLATFORMS/Tech_platforms/Tech_platforms.md",
     "Tools/Tools.md",
@@ -133,8 +135,6 @@
     "Tools/Templates/Templates.md",
     "PRODUCTS/PRODUCTS.md",
     "PLATFORMS/PLATFORMS.md",
-    "PEOPLE/PEOPLE.md",
-    "PRODUCTS/Untitled.md",
-    "PLATFORMS/Untitled.md"
+    "PEOPLE/PEOPLE.md"
   ]
 }
