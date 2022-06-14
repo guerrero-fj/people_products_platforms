@@ -89,14 +89,6 @@
             }
           },
           {
-            "id": "257ae97a2fc60256",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "904615c40666ed4f",
             "type": "leaf",
             "state": {
@@ -105,9 +97,17 @@
                 "file": "PLATFORMS/PLATFORMS.md"
               }
             }
+          },
+          {
+            "id": "5c4f83e08e4c6405",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "b09c349d5c9ae7d6",
